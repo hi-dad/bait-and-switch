@@ -1,10 +1,20 @@
-# Bait and Switch
+<p align="center">
+  <img src="images/logo.png" width="220" alt="Bait and Switch logo: a red play button caught on a fishing hook">
+</p>
 
-*Formerly Click Rate.*
+<h1 align="center">Bait and Switch</h1>
 
-A Chrome extension that replaces YouTube's clickbait thumbnails with real frames from inside the video.
+<p align="center">
+  <em>Formerly Click Rate.</em>
+</p>
 
-No AI, no accounts and no outside servers. It only loads images YouTube already hosts.
+<p align="center">
+  A Chrome extension that replaces YouTube's clickbait thumbnails with real frames from inside the video.
+</p>
+
+<p align="center">
+  No AI, no accounts and no outside servers. It only loads images YouTube already hosts.
+</p>
 
 <img src="images/before-after-1.png" alt="Before and after: two clickbait thumbnails about Claude become real frames from the same videos" width="720">
 
