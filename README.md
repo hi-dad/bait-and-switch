@@ -6,6 +6,10 @@ A Chrome extension that replaces YouTube's clickbait thumbnails with real frames
 
 No AI, no accounts and no outside servers. It only loads images YouTube already hosts.
 
+<img src="images/before-after-1.png" alt="Before and after: two clickbait thumbnails about Claude become real frames from the same videos" width="720">
+
+<img src="images/before-after-2.png" alt="Before and after: two clickbait thumbnails about buying ads become real frames from the same videos" width="720">
+
 ## How it works
 
 YouTube automatically saves three still frames from every video, at about 25%, 50% and 75% of the way through. Bait and Switch swaps each thumbnail for one of those frames, using the sharpest version available (up to 1280×720).
