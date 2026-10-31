@@ -1,6 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Bait and Switch",
+  "name": "Bait and Switch - Replace YouTube Clickbait",
+  "short_name": "Bait and Switch",
   "version": "1.0.0",
   "description": "Swap YouTube's clickbait thumbnails for real frames from the video. No AI, no outside servers.",
   "permissions": ["storage"],
