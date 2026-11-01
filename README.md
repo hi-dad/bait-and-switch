@@ -16,6 +16,10 @@
   No AI, no accounts and no outside servers. It only loads images YouTube already hosts.
 </p>
 
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/bait-and-switch-replace-y/khjokdeamjlfoiobknbgbmohdfgpcdof"><strong>⬇️ Add to Chrome</strong></a>
+</p>
+
 <img src="images/before-after-1.png" alt="Before and after: two clickbait thumbnails about Claude become real frames from the same videos" width="720">
 
 <img src="images/before-after-2.png" alt="Before and after: two clickbait thumbnails about buying ads become real frames from the same videos" width="720">
@@ -45,13 +49,19 @@ To change a single video, hover its thumbnail and click the **⟳** button in th
 
 ## Install
 
+Get it from the [Chrome Web Store](https://chromewebstore.google.com/detail/bait-and-switch-replace-y/khjokdeamjlfoiobknbgbmohdfgpcdof), then pin it from the puzzle-piece menu so the icon stays visible.
+
+<details>
+<summary>Build it yourself</summary>
+
 1. Download this repo: **Code → Download ZIP**, then unzip it. Or run `git clone`.
 2. Open `chrome://extensions` in Chrome.
 3. Turn on **Developer mode** (top right).
 4. Click **Load unpacked** and choose the `bait-and-switch` folder.
-5. Pin it from the puzzle-piece menu so the icon stays visible.
 
 After you change the code, click the reload arrow on the extension's card in `chrome://extensions`.
+
+</details>
 
 ## Files
 
